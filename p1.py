@@ -1,1 +1,0 @@
-print("extinction-core FIX2")
