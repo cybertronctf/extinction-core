@@ -1,1 +1,1 @@
-print("extinction-core REINSERT")
+print("extinction-core UPDATE2")
