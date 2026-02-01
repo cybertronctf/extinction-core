@@ -1,1 +1,1 @@
-print("extinction-core INSERT")
+print("extinction-core UPDATE")
